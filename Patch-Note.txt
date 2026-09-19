@@ -1,0 +1,4 @@
+**RFRebirth — September 13, 2026**
+*Upcoming update*
+
+- Fixed quests appearing claimable again after logging back in or refreshing the quest list.
